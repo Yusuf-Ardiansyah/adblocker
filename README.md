@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Google_Chrome-green)
 ![Status](https://img.shields.io/badge/Status-Exclusive-red)
 
-**Sultan AdBlocker VIP** adalah ekstensi Google Chrome eksklusif dan super ringan yang dirancang khusus untuk membasmi iklan YouTube tanpa membebani memori (RAM) komputer. Berbeda dengan adblocker raksasa lainnya, ekstensi ini menggunakan teknik *Surgical DOM Manipulation* untuk menebas iklan secara instan dan sunyi!
+**Sultan AdBlocker VIP** adalah ekstensi Google Chrome eksklusif dan super ringan hasil karya **Yusuf Ardiansyah** (Bos Yusuf). Ekstensi ini dirancang khusus untuk membasmi iklan YouTube tanpa membebani memori (RAM) komputer. Berbeda dengan adblocker raksasa lainnya, mahakarya ini menggunakan teknik *Surgical DOM Manipulation* untuk menebas iklan secara instan dan sunyi!
 
 ## ✨ Fitur Unggulan
 - ⚡ **Auto-Skip Instan:** Mengeklik tombol "Skip Ad" secara otomatis dalam hitungan milidetik.
@@ -15,24 +15,27 @@
 
 ---
 
-## 📥 Panduan Instalasi (Sangat Mudah!)
+## 📥 Panduan Instalasi (Sangat Mudah & Aman!)
 
-Karena ekstensi ini bersifat eksklusif "Jalur Bawah Tanah" dan tidak tersedia di Chrome Web Store umum, silakan ikuti panduan instalasi manual berikut ini:
+Karena ekstensi ini bersifat eksklusif "Jalur Bawah Tanah", ikuti 3 langkah mudah ini untuk memasangnya dengan aman tanpa peringatan pemblokiran dari Chrome:
 
-### Langkah 1: Unduh File Ekstensi
-1. Di halaman repositori ini, klik pada file bernama **`Sultan_AdBlocker.crx`**.
-2. Klik ikon panah ke bawah (**Download raw file**) yang ada di pojok kanan atas kotak kode untuk menyimpan file tersebut ke komputermu.
+### 1. Unduh File
+1. Di halaman repositori ini, klik file bernama **`Sultan_AdBlocker.zip`**.
+2. Klik tombol panah ke bawah (**Download raw file**) di pojok kanan atas kotak untuk mengunduhnya.
+3. Setelah terunduh, **Ekstrak (Unzip)** file tersebut di komputermu (klik kanan -> *Extract All* atau *Extract Here*).
 
-### Langkah 2: Pasang ke Google Chrome
+### 2. Aktifkan Mode Developer di Chrome
 1. Buka browser **Google Chrome**.
 2. Ketik `chrome://extensions/` di *address bar* (tempat biasa mengetik alamat website) lalu tekan **Enter**.
-3. Perhatikan pojok kanan atas halaman, **Aktifkan sakelar "Developer mode"** (Mode Pengembang).
-4. Buka *File Explorer* (folder) komputermu dan cari file `Sultan_AdBlocker.crx` yang baru saja diunduh.
-5. **Seret (drag) file tersebut**, lalu **lepaskan (drop)** tepat di tengah halaman ekstensi Chrome tadi.
-6. Saat muncul jendela konfirmasi kecil, klik **Add extension** (Tambahkan ekstensi).
+3. Di pojok kanan atas halaman, **Aktifkan sakelar "Developer mode"** (Mode Pengembang).
+
+### 3. Pasang Ekstensi Sultan
+1. Setelah *Developer mode* aktif, akan muncul tombol-tombol baru di kiri atas.
+2. Klik tombol **"Load unpacked"** (Muat yang belum dikemas).
+3. Cari dan pilih folder `Sultan_AdBlocker` hasil ekstrak tadi, lalu klik **Select Folder**.
 
 🎉 **BOOM! SELESAI!** 
-Ikon Mahkota Sultan akan muncul di pojok kanan atas browser kamu. Silakan buka atau *refresh* halaman YouTube, dan nikmati tontonan bersih tanpa gangguan iklan!
+Ikon Mahkota Sultan akan langsung muncul di pojok kanan atas browser kamu. Silakan buka atau *refresh* halaman YouTube, dan nikmati tontonan bersih tanpa gangguan iklan!
 
 ---
-*Diciptakan secara khusus untuk kenyamanan menonton maksimal.*
+*Diciptakan secara khusus untuk kenyamanan menonton maksimal oleh Yusuf Ardiansyah.*
